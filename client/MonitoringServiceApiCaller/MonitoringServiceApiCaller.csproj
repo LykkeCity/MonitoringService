@@ -33,7 +33,7 @@
     <PackageReference Include="AsyncFriendlyStackTrace" Version="1.6.0" />
     <PackageReference Include="Lykke.HttpClientGenerator" Version="2.2.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.1.1" />
-    <PackageReference Include="Refit" Version="4.6.30" />
+    <PackageReference Include="Refit" Version="7.2.22" />
   </ItemGroup>
 
 </Project>
